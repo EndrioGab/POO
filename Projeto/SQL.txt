@@ -1,0 +1,6 @@
+CREATE TABLE paciente(
+	nome_paciente varchar(50)PRIMARY KEY,
+	sobrenome_paciente VARCHAR(50) NOT NULL
+
+);
+
